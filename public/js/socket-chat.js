@@ -27,7 +27,6 @@ socket.on('disconnect', function() {
 
 // Enviar información
 // socket.emit('crearMensaje', {
-// 	usuario: 'Rodolfo',
 // 	mensaje: 'Hola mundo'
 // }, function( resp ){
 // 	console.log('respuesta server: ', resp)
